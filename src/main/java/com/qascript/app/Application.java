@@ -4,6 +4,8 @@ public class Application {
 
     private final String message = "Hello World!";
 
+    
+    
     public Application() {}
 
     public static void main(String[] args){
